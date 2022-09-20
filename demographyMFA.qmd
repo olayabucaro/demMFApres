@@ -2,6 +2,7 @@
 title: "Population projection model for FUME"
 format:
   revealjs: 
+    theme: dmfa.scss
     controls: true
     slide-number: true
     chalkboard: 
@@ -9,10 +10,6 @@ format:
     preview-links: auto
     logo: images/image1.png
     footer: <futuremigration.eu>
-title-slide-attributes:
-  data-background-image: "images/logoiiasa.png, images/image8.png"
-  data-background-size: "25%"
-  data-background-position: "6% 8%, 50% 80%"
 ---
 
 ## Introduction
