@@ -46,8 +46,7 @@ These scenarios will be shared with the EU Commission, international organizatio
 ## Why is country of birth important?
 
 - Does the migration pattern differ by country of birth? 
-- Total migration flow  = Diaspora (stock) + GDP  (Rikani and Schewe, 2021; FUME partner PIK)  
-- Diaspora: inertia and return migration, Characteristics of migrants (Age, Sex, and Education)?
+- Characteristics of migrants (Age, Sex, and Education)?
 - Does demographic behavior change after migration? 
 
 ------------------------------------------------------------------------
@@ -55,7 +54,6 @@ These scenarios will be shared with the EU Commission, international organizatio
 ## Model component overview
 
 ```{mermaid}
-
 flowchart TD
     B2[/"EU data"/] --> B 
     A(["Start projection (time=t)"]) --> B[Mortality/Education]
@@ -116,6 +114,7 @@ flowchart TD
     Fertility --> F2[/"Non-EU data 
     [Age(21), Sex, Edu(6)]"/]
     style Z fill:#809fff,stroke:#333,stroke-width:3px
+    
 ```
 
 ::: footer
